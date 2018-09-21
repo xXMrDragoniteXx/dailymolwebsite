@@ -1,0 +1,28 @@
+.navbar-inverse .navbar-nav>li>a
+{
+  color: rgb( 0, 200, 255 );
+}
+
+body {
+  background-color: #98ff98;
+}
+
+.navbar-inverse .navbar-brand
+{
+  color: rgb( 0, 200, 255 );
+}
+
+.jumbotron
+{
+  background-color: rgb( 80, 80, 80 );
+  color: rgb( 0, 200, 255 );
+  font-weight: 700;
+}
+
+body
+{
+  background-color: rgb( 140, 140, 140 );
+  font-family: Ubuntu, sans-serif;
+}
+
+
